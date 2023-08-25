@@ -1,0 +1,15 @@
+/Users/burakkaracakaya/Projects/QuickSort/QuickSort/bin/Debug/net7.0/QuickSort
+/Users/burakkaracakaya/Projects/QuickSort/QuickSort/bin/Debug/net7.0/QuickSort.deps.json
+/Users/burakkaracakaya/Projects/QuickSort/QuickSort/bin/Debug/net7.0/QuickSort.runtimeconfig.json
+/Users/burakkaracakaya/Projects/QuickSort/QuickSort/bin/Debug/net7.0/QuickSort.dll
+/Users/burakkaracakaya/Projects/QuickSort/QuickSort/bin/Debug/net7.0/QuickSort.pdb
+/Users/burakkaracakaya/Projects/QuickSort/QuickSort/obj/Debug/net7.0/QuickSort.csproj.AssemblyReference.cache
+/Users/burakkaracakaya/Projects/QuickSort/QuickSort/obj/Debug/net7.0/QuickSort.GeneratedMSBuildEditorConfig.editorconfig
+/Users/burakkaracakaya/Projects/QuickSort/QuickSort/obj/Debug/net7.0/QuickSort.AssemblyInfoInputs.cache
+/Users/burakkaracakaya/Projects/QuickSort/QuickSort/obj/Debug/net7.0/QuickSort.AssemblyInfo.cs
+/Users/burakkaracakaya/Projects/QuickSort/QuickSort/obj/Debug/net7.0/QuickSort.csproj.CoreCompileInputs.cache
+/Users/burakkaracakaya/Projects/QuickSort/QuickSort/obj/Debug/net7.0/QuickSort.dll
+/Users/burakkaracakaya/Projects/QuickSort/QuickSort/obj/Debug/net7.0/refint/QuickSort.dll
+/Users/burakkaracakaya/Projects/QuickSort/QuickSort/obj/Debug/net7.0/QuickSort.pdb
+/Users/burakkaracakaya/Projects/QuickSort/QuickSort/obj/Debug/net7.0/QuickSort.genruntimeconfig.cache
+/Users/burakkaracakaya/Projects/QuickSort/QuickSort/obj/Debug/net7.0/ref/QuickSort.dll
